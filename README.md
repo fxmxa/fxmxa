@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fxmxa
+- 👀 I’m interested in self-development
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on a useful project
+- 📫 How to reach me tg kostikovmu
+- 😄 Pronouns: beatiful
+- ⚡ Fun fact: I eat and I don't get fat
