@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fxmxa
+- 👋 Hi, I’m Kostikov Mikhail
 - 👀 I’m interested in self-development
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on a useful project
